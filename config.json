@@ -1,0 +1,13 @@
+{
+"TrainingFileLocation":"C:\\Users\\Deepto Moitra\\Desktop\\Data Science Portfolio\\2 Projects\\1_Python_ML_Model\\Patient_Attendance_Prediction\\SourceFiles",
+"Features":["Age","Hipertension","Diabetes","Alcoholism","Handcap","SMS_received"],
+"TargetVector":"No-show",
+"Models": ["LR","RF","DT"],
+"ModelFullName":["DecisionTreeClassifier","RandomForestClassifier","LogisticRegression"],
+"ModelFileLocation":"C:\\Users\\Deepto Moitra\\Desktop\\Data Science Portfolio\\2 Projects\\1_Python_ML_Model\\Patient_Attendance_Prediction\\ModelFiles",
+"TrainTestFile":"Attendance_2",
+"Extsn":"csv",
+"ExtsnList":["csv","xlsx","txt","xls"],
+"ColIdx" : [5,8,9,10,11,12],
+"ColdDQType" : ["int64","int64","int64","int64","int64","int64"]
+}
