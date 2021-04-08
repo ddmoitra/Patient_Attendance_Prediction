@@ -49,6 +49,12 @@
 
 * If more Scikit-Learn models are needed, the code would need to be updated in PatientPredictionModel.py
 
+![image](https://user-images.githubusercontent.com/46364751/113963741-2a29d400-97f8-11eb-8d05-e0884e9132be.png)
+
+![image](https://user-images.githubusercontent.com/46364751/113963762-344bd280-97f8-11eb-821d-8bc02ecde580.png)
+
+![image](https://user-images.githubusercontent.com/46364751/113963774-3b72e080-97f8-11eb-96e5-a011e695959f.png)
+
 ### License / Citation
 
 * Python GPU License: https://docs.python.org/3.7/license.html
