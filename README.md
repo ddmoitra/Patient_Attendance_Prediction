@@ -12,7 +12,7 @@
 
 ### Detailed Description 
 
-* There are 3 classifiaction ML models used in this project - Random Forest, Logistic Regression and Decision Trees that are applied on the source files using
+* There are 3 classification ML models used in this project - Random Forest, Logistic Regression and Decision Trees that are applied on the source files using
 
 * The features matrix of this model include Age, Hipertension, Diabetes, Alcoholism, Handcap and SMS_received. The target vector is a binary output - Sho/No-Show.
 
